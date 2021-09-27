@@ -11,6 +11,7 @@ Without controller, the robot wildly oscillates about the axis:
 
 
 With proper PID gain values :
+
 ![self_balancing_bot](https://user-images.githubusercontent.com/52212611/134894682-29ad960d-19ca-4c7c-a92c-ecd1e2acf779.gif)
 
 Plot of actual o/p vs desired o/p
